@@ -177,6 +177,7 @@ textarea {
 #caption {
 	padding:25px 30px 0;
 }
+/*
 #title a {
 	text-decoration:none;
 	color:#FFF;
@@ -185,8 +186,9 @@ textarea {
 	font-family:"Trajan Pro";
 	letter-spacing:0;
 }
+*/
 /* image blog title */
-/*
+
 #title a {
 	background:url(img/title.gif) no-repeat;
 	text-decoration:none;
@@ -196,7 +198,7 @@ textarea {
 	text-indent:-999em;
 	display:block;
 }
-*/
+
 #tagline {
 	color:#FFF;
 	border-top:1px solid #FFF;
